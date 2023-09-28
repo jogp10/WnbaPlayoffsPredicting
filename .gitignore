@@ -1,0 +1,6 @@
+*.ipynb_checkpoints/
+*.ipynb-meta
+ipython_checkpoints/
+.ipynb_checkpoints
+__pycache__/
+/.idea/
