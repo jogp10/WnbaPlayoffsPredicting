@@ -1,6 +1,8 @@
 {
-    "db_host": "db4free.net",
-    "db_user": "ac24_wnba",
-    "db_password": "ac24_wnba",
-    "db_database": "ac24_wnba"
+    "db_host": "tai.db.elephantsql.com",
+    "db_user": "gcyxpvaj",
+    "db_database": "gcyxpvaj",
+    "db_password": "JWujnbszC4gY9PUMu8XZujWBPTKoI3kJ",
+    "db_schema": "wnba",
+    "db_default_schema": "_wnba"
 }
