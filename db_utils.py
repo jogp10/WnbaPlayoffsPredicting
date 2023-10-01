@@ -1,5 +1,8 @@
-import mysql.connector
 import json
+import psycopg2
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 with open("config.json") as config_file:
     config = json.load(config_file)
