@@ -28,7 +28,7 @@ DELETE = "DELETE FROM " + schema + "." # + table_name + " WHERE " + column_name 
 
 # Functions so I can reutilize the code
 def connect():
-    connection = mysql.connector.connect(
+    connection = psycopg2.connect(
         host=host,
         user=user,
         password=password,
