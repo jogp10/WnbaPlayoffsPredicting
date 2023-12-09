@@ -1,11 +1,11 @@
    tmID  year  confID  playoff  playoff_predict  playoff_predict_without_8
 0   ATL    11       0        1                0                          0
 1   CHI    11       0        0                0                          0
-2   CON    11       0        0                1                          1
+2   CON    11       0        0                1                          0
 4   IND    11       0        1                1                          1
 7   NYL    11       0        1                1                          1
 11  WAS    11       0        1                1                          0
-3   DET    11       1        0                0                          0
+3   DET    11       1        0                0                          1
 5   LAS    11       1        1                1                          1
 6   MIN    11       1        0                0                          0
 8   PHO    11       1        1                1                          1
